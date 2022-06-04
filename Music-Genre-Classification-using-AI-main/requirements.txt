@@ -1,0 +1,11 @@
+matplotlib
+seaborn
+keras
+scikit-learn
+pandas
+numpy
+tensorflow
+opencv-contrib-python
+librosa
+ffmpeg
+pickle-mixin
